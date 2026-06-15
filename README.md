@@ -69,3 +69,25 @@ This project was developed to enhance practical knowledge in:
 **Tangalapalli Vasavi**
 
 Cybersecurity Student | Security Operations & Incident Response Enthusiast
+
+---
+
+## Screenshots
+
+### Dashboard 1
+![Dashboard 1](Screenshot-2026-06-12-095527.png)
+
+### Dashboard 2
+![Dashboard 2](Screenshot-2026-06-12-095648.png)
+
+### Dashboard 3
+![Dashboard 3](Screenshot-2026-06-12-095708.png)
+
+### Dashboard 4
+![Dashboard 4](Screenshot-2026-06-12-095717.png)
+
+### Dashboard 5
+![Dashboard 5](Screenshot-2026-06-12-095730.png)
+
+### Dashboard 6
+![Dashboard 6](Screenshot-2026-06-12-095957.png)

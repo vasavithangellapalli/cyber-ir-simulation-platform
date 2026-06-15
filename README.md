@@ -75,19 +75,19 @@ Cybersecurity Student | Security Operations & Incident Response Enthusiast
 ## Screenshots
 
 ### Dashboard 1
-![Dashboard 1](Screenshot-2026-06-12-095527.png)
+![Dashboard 1](Screenshot%202026-06-12%20095527.png)
 
 ### Dashboard 2
-![Dashboard 2](Screenshot-2026-06-12-095648.png)
+![Dashboard 2](Screenshot%202026-06-12%20095648.png)
 
 ### Dashboard 3
-![Dashboard 3](Screenshot-2026-06-12-095708.png)
+![Dashboard 3](Screenshot%202026-06-12%20095708.png)
 
 ### Dashboard 4
-![Dashboard 4](Screenshot-2026-06-12-095717.png)
+![Dashboard 4](Screenshot%202026-06-12%20095717.png)
 
 ### Dashboard 5
-![Dashboard 5](Screenshot-2026-06-12-095730.png)
+![Dashboard 5](Screenshot%202026-06-12%20095730.png)
 
 ### Dashboard 6
-![Dashboard 6](Screenshot-2026-06-12-095957.png)
+![Dashboard 6](Screenshot%202026-06-12%20095957.png)
